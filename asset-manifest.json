@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/guard/static/css/main.5fbeeabd.css",
+    "main.js": "/guard/static/js/main.2cfe1885.js",
+    "static/js/453.ad6eb26e.chunk.js": "/guard/static/js/453.ad6eb26e.chunk.js",
+    "static/media/header-img.png": "/guard/static/media/header-img.f0502cf9a0b6ce866525.png",
+    "index.html": "/guard/index.html",
+    "main.5fbeeabd.css.map": "/guard/static/css/main.5fbeeabd.css.map",
+    "main.2cfe1885.js.map": "/guard/static/js/main.2cfe1885.js.map",
+    "453.ad6eb26e.chunk.js.map": "/guard/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fbeeabd.css",
+    "static/js/main.2cfe1885.js"
+  ]
+}
